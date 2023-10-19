@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name":"Hospitality, Leisure & Sports Courses",
+		"image":"https://shelly.merku.love/wp-content/uploads/2020/11/class8.png",
+		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/img5-150x150.png",
+		"teacher_name":"Polina Kerston",
+		"teaching_subject":"English Teacher",
+		"price":45
+	},
+	{
+		"id": 2,
+		"name":"Environmental Studies & Earth Sciences",
+		"image":"https://shelly.merku.love/wp-content/uploads/2020/11/class7.png",
+		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/img8-150x150.png",
+		"teacher_name":"Katayama Fumiki",
+		"teaching_subject":"Teacher",
+		"price":45
+	},
+	{
+		"id": 3,
+		"name":"Natural Sciences & Mathematics Courses",
+		"image":"https://shelly.merku.love/wp-content/uploads/2020/11/class6-270x180.png",
+		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/img6-150x150.png",
+		"teacher_name":"Faadi Al Rahman",
+		"teaching_subject":"Instructor",
+		"price":45
+	},
+	{
+		"id": 4,
+		"name":"Basic English speaking and Grammar",
+		"image":"https://shelly.merku.love/wp-content/uploads/2020/11/class5-270x180.png",
+		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/teacher5-150x150.png",
+		"teacher_name":"Dai Jiang",
+		"teaching_subject":"English Teacher",
+		"price":45
+	},
+	{
+		"id": 5,
+		"name":"Hospitality, Leisure & Sports Courses",
+		"image":"https://shelly.merku.love/wp-content/uploads/2020/11/class4-270x180.png",
+		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/teacher7-150x150.png",
+		"teacher_name":"Vincent Luggers",
+		"teaching_subject":"Art Teacher",
+		"price":45
+	},
+	{
+		"id": 6,
+		"name":"Environmental Studies & Earth Sciences",
+		"image":"https://shelly.merku.love/wp-content/uploads/2020/11/girl-doing-homework-or-online-education-R72VXGD-270x180.jpg",
+		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/img5-150x150.png",
+		"teacher_name":"Polina Kerston",
+		"teaching_subject":"English Teacher",
+		"price":45
+	},
+	{
+		"id": 7,
+		"name":"Natural Sciences & Mathematics Courses",
+		"image":"https://shelly.merku.love/wp-content/uploads/2020/11/class2-270x180.png",
+		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/teacher5-150x150.png",
+		"teacher_name":"Dai Jiang",
+		"teaching_subject":"English Teacher",
+		"price":45
+	},
+	{
+		"id": 8,
+		"name":"Basic English Speaking and Grammar",
+		"image":"https://shelly.merku.love/wp-content/uploads/2020/11/class1-270x180.png",
+		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/img7-150x150.png",
+		"teacher_name":"Chikelu Obasea",
+		"teaching_subject":"English Teacher",
+		"price":45
+	}
+]
