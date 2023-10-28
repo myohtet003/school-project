@@ -6,7 +6,9 @@
 		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/img5-150x150.png",
 		"teacher_name":"Polina Kerston",
 		"teaching_subject":"English Teacher",
-		"price":45
+		"price":45,
+		"date":"Mon-Fri",
+		"time":"10 AM - 12 PM"
 	},
 	{
 		"id": 2,
@@ -15,7 +17,9 @@
 		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/img8-150x150.png",
 		"teacher_name":"Katayama Fumiki",
 		"teaching_subject":"Teacher",
-		"price":45
+		"price":45,
+		"date":"Mon-Fri",
+		"time":"10 AM - 12 PM"
 	},
 	{
 		"id": 3,
@@ -24,7 +28,9 @@
 		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/img6-150x150.png",
 		"teacher_name":"Faadi Al Rahman",
 		"teaching_subject":"Instructor",
-		"price":45
+		"price":45,
+		"date":"Mon-Fri",
+		"time":"10 AM - 12 PM"
 	},
 	{
 		"id": 4,
@@ -33,7 +39,9 @@
 		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/teacher5-150x150.png",
 		"teacher_name":"Dai Jiang",
 		"teaching_subject":"English Teacher",
-		"price":45
+		"price":45,
+		"date":"Mon-Fri",
+		"time":"10 AM - 12 PM"
 	},
 	{
 		"id": 5,
@@ -42,16 +50,20 @@
 		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/teacher7-150x150.png",
 		"teacher_name":"Vincent Luggers",
 		"teaching_subject":"Art Teacher",
-		"price":45
+		"price":45,
+		"date":"Mon-Fri",
+		"time":"10 AM - 12 PM"
 	},
 	{
 		"id": 6,
 		"name":"Environmental Studies & Earth Sciences",
 		"image":"https://shelly.merku.love/wp-content/uploads/2020/11/girl-doing-homework-or-online-education-R72VXGD-270x180.jpg",
 		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/img5-150x150.png",
-		"teacher_name":"Polina Kerston",
+		"teacher_name":"Polina Ker-",
 		"teaching_subject":"English Teacher",
-		"price":45
+		"price":45,
+		"date":"Mon-Fri",
+		"time":"10 AM - 12 PM"
 	},
 	{
 		"id": 7,
@@ -60,7 +72,9 @@
 		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/teacher5-150x150.png",
 		"teacher_name":"Dai Jiang",
 		"teaching_subject":"English Teacher",
-		"price":45
+		"price":45,
+		"date":"Mon-Fri",
+		"time":"10 AM - 12 PM"
 	},
 	{
 		"id": 8,
@@ -69,6 +83,8 @@
 		"teacher_image":"https://shelly.merku.love/wp-content/uploads/2020/11/img7-150x150.png",
 		"teacher_name":"Chikelu Obasea",
 		"teaching_subject":"English Teacher",
-		"price":45
+		"price":45,
+		"date":"Mon-Fri",
+		"time":"10 AM - 12 PM"
 	}
 ]

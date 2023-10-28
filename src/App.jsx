@@ -1,6 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 import './index.css'
+import './App.css'
 import { Routes,Route } from 'react-router-dom'
 import 'animate.css';
 import Home from './Pages/Home';
@@ -17,9 +18,9 @@ import Navbar from './Components/Navbar'
 function App() {
   return (
     <>
-<div className=' container mx-auto h-[100vh] min-h-screen relative bg-white'>
+<div className=' container mx-auto w-[100%] h-[100vh] min-h-screen relative bg-white'>
     
-      <Navbar/>
+      {/* <Navbar/> */}
       <Routes>
         <Route path="/" element={<Home/>}/>
         <Route path="/about-us" element={<About_Us/>}/>

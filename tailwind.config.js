@@ -39,7 +39,7 @@ export default {
         '3xl': '-3px -5px 5px 2px rgba(0, 0, 0, 0.1)',
       },
       backgroundImage: {
-        'bubble-1-gradient': "linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%)",
+        'bubble-1-gradient': "linear-gradient(135deg, rgb(245, 132, 66) 0%,rgba(245, 197, 66,1) 100%)",
         'btn-gradient': "linear-gradient(180deg,#f37335 ,#fda12c)",
         'form-gradient': "linear-gradient(220deg,#f37335 ,#fda12c)",
 
