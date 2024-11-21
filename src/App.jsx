@@ -10,10 +10,7 @@ import Classes from './Pages/Classes';
 import Teachers from './Pages/Teachers';
 import Events from './Pages/Events';
 import Blog from './Pages/Blog';
-import Contact from './Pages/Contact';
-
-
-import Navbar from './Components/Navbar'
+import Contact from './Pages/Contact'; 
 
 function App() {
   return (
