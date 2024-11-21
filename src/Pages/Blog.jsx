@@ -779,7 +779,7 @@ const Blog = () => {
               <p className="w-8 rounded-full h-[4px] bg-primary relative group-hover:w-24 group-hover:bg-primary duration-150"></p>
               <p className='text-gray font-bold text-xl mb-6 mt-2 '>Calendar</p>
               <div className="">
-                <Calendar onChange={setDate} value={date} className=" border-none "/>
+                <Calendar onChange={setDate} value={date} className=""/>
                 {date.toString()}
               </div>
             </div>
